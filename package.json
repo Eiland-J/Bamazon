@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Product purchasing app similar to Amazon (don't want to get sued though)",
+  "main": "bamazonCus.js",
+  "scripts": {
+    "test": "bamazonCus.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eiland-J/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Joewan Eiland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eiland-J/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Eiland-J/Bamazon#readme",
+  "dependencies": {
+    "color": "^3.1.2",
+    "colors": "^1.4.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
